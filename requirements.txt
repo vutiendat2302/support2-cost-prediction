@@ -9,3 +9,4 @@ umap-learn
 k-means-constrained
 
 scikit-learn-extra
+kmodes 
