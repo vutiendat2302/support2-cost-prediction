@@ -1,5 +1,4 @@
 # Local data and cache files
-data/
 *.json
 *.png
 

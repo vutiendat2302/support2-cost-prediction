@@ -6,3 +6,6 @@ scipy
 scikit-learn
 ucimlrepo
 umap-learn 
+k-means-constrained
+
+scikit-learn-extra
